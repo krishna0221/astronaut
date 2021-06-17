@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Astronaut's daily routine"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Astronaut's daily routine"
+	}
+}
